@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "f5",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.f5",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "f4",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.f4",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "f3",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.f3",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "f2",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.f2",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "f1",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.f1",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.first",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "second",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.second",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "PTR",
+            "request": "launch",
+            "mainClass": "PTR",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "Rup_TO_USD",
+            "request": "launch",
+            "mainClass": "Rup_TO_USD",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "comparision",
+            "request": "launch",
+            "mainClass": "comparision",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "even_or_odd",
+            "request": "launch",
+            "mainClass": "even_or_odd",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "fibnoci",
+            "request": "launch",
+            "mainClass": "fibnoci",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "lcm_hcf",
+            "request": "launch",
+            "mainClass": "lcm_hcf",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "leap",
+            "request": "launch",
+            "mainClass": "leap",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "math_operation",
+            "request": "launch",
+            "mainClass": "math_operation",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "multilpication",
+            "request": "launch",
+            "mainClass": "multilpication",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "sim_of_ele",
+            "request": "launch",
+            "mainClass": "sim_of_ele",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "JAVA_DSA_d0b374c4"
+        },
+        {
+            "type": "java",
+            "name": "switch1",
+            "request": "launch",
+            "mainClass": "switch1",
+            "projectName": "JAVA_DSA_d0b374c4"
+        }
+    ]
+}

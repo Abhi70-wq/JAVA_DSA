@@ -1,0 +1,21 @@
+package FUNCTIONS;
+import java.util.Scanner;
+public class f5 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+       System.out.println( fact(n));
+    }
+    static int fact(int n){
+        int fact=1;
+        if(n==0 || n==1){
+            return 1;
+        }
+        else{
+            for(int i=1;i<=n;i++){
+                fact=fact*i;
+            }
+        }
+        return fact;
+    }
+}
